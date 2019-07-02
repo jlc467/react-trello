@@ -54,3 +54,19 @@ storiesOf('Editable Board', module)
     },
     {info: 'Allow adding new lane'}
   )
+  .add(
+    'Inline Edit Lane Title',
+    () => {
+      return (
+        <Board
+          data={smallData}
+          editable
+          canAddLanes
+          editLaneTitle
+          onLaneUpdate={ (laneId, data) => debug(`onLaneUpdate: ${laneId} -> ${data.title}`)}
+          onLaneAdd={t => debug('You added a line with title ' + t.title)}
+        />
+      )
+    },
+    {info: 'Allow edit lane title'}
+  )
