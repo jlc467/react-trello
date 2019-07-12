@@ -26,7 +26,6 @@ exports[`Storyshots Advanced Features Async Load data 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -454,7 +453,6 @@ exports[`Storyshots Advanced Features Collapsible Lanes 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -2040,7 +2038,6 @@ exports[`Storyshots Advanced Features Event Handling 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -3283,7 +3280,6 @@ exports[`Storyshots Advanced Features Realtime Events 1`] = `
         }
         draggable={false}
         onCardMoveAcrossLanes={[Function]}
-        onLaneUpdate={[Function]}
       >
         <div
           onClick={[Function]}
@@ -4423,7 +4419,6 @@ exports[`Storyshots Advanced Features Scrolling and Events 1`] = `
         }
         draggable={false}
         onCardMoveAcrossLanes={[Function]}
-        onLaneUpdate={[Function]}
       >
         <div
           onClick={[Function]}
@@ -5946,7 +5941,6 @@ exports[`Storyshots Basic Functions Full Board example 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -7424,7 +7418,6 @@ exports[`Storyshots Basic Functions Infinite Scrolling 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -8802,7 +8795,6 @@ exports[`Storyshots Basic Functions Reverse Sorted Lane 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -9466,7 +9458,6 @@ exports[`Storyshots Basic Functions Sorted Lane 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -10130,7 +10121,6 @@ exports[`Storyshots Basic Functions Tags 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -11100,7 +11090,6 @@ exports[`Storyshots Custom Components AddCardLink 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -12651,7 +12640,6 @@ exports[`Storyshots Custom Components Card 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -13826,7 +13814,6 @@ exports[`Storyshots Custom Components Drag-n-Drop Styling 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -14496,7 +14483,6 @@ exports[`Storyshots Custom Components LaneFooter 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -15995,7 +15981,6 @@ exports[`Storyshots Custom Components LaneHeader 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -16976,7 +16961,6 @@ exports[`Storyshots Custom Components NewCardForm 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -18513,7 +18497,6 @@ exports[`Storyshots Custom Components NewLaneForm 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -19273,7 +19256,6 @@ exports[`Storyshots Custom Components NewLaneSection 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -20140,7 +20122,6 @@ exports[`Storyshots Deprecation warnings v2.2 warnings 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -21925,7 +21906,6 @@ exports[`Storyshots Drag-n-Drop Basic 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -23610,7 +23590,6 @@ exports[`Storyshots Drag-n-Drop Drag Cards not Lanes 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -24735,7 +24714,6 @@ exports[`Storyshots Drag-n-Drop Drag Styling 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -26306,7 +26284,6 @@ exports[`Storyshots Drag-n-Drop Restrict lanes 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -27305,7 +27282,6 @@ exports[`Storyshots Editable Board Add New Lane 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -28174,7 +28150,6 @@ exports[`Storyshots Editable Board Add/Delete Cards 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -29880,7 +29855,6 @@ exports[`Storyshots Editable Board Inline Edit Lane Title 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -29909,7 +29883,7 @@ exports[`Storyshots Editable Board Inline Edit Lane Title 1`] = `
                   autoComplete="off"
                   autoCorrect="off"
                   autoFocus={false}
-                  className="sc-kpOJdX jEDhMs"
+                  className="sc-kpOJdX RDblP"
                   defaultValue="Sorted Lane"
                   onBlur={[Function]}
                   onFocus={[Function]}
@@ -30691,7 +30665,6 @@ exports[`Storyshots I18n Custom texts 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -33070,7 +33043,6 @@ exports[`Storyshots I18n Using i18next 1`] = `
         }
         draggable={false}
         onCardMoveAcrossLanes={[Function]}
-        onLaneUpdate={[Function]}
       >
         <div
           onClick={[Function]}
@@ -35341,7 +35313,6 @@ exports[`Storyshots Multiple Boards Two Boards 1`] = `
           }
           draggable={false}
           onCardMoveAcrossLanes={[Function]}
-          onLaneUpdate={[Function]}
         >
           <div
             onClick={[Function]}
@@ -36220,7 +36191,6 @@ exports[`Storyshots Multiple Boards Two Boards 1`] = `
           }
           draggable={false}
           onCardMoveAcrossLanes={[Function]}
-          onLaneUpdate={[Function]}
         >
           <div
             onClick={[Function]}
@@ -38196,7 +38166,6 @@ exports[`Storyshots Styling Board Styling 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
       style={
         Object {
           "fontFamily": "Verdana",
@@ -39713,7 +39682,6 @@ exports[`Storyshots Styling Card Styling 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
     >
       <div
         onClick={[Function]}
@@ -40385,7 +40353,6 @@ exports[`Storyshots Styling Lane Styling 1`] = `
       }
       draggable={false}
       onCardMoveAcrossLanes={[Function]}
-      onLaneUpdate={[Function]}
       style={
         Object {
           "backgroundColor": "#eee",
